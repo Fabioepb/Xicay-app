@@ -16,6 +16,10 @@
   border-bottom: 2px solid lightgray;
 }
 
+.list-group-item.active{
+  z-index: 0;
+}
+
 .details-container{
   display: flex;
   justify-content: center;
