@@ -1,0 +1,18 @@
+.fact-list-header{
+  padding: 5px;
+  background-color: #007afd73;
+  border-bottom-right-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+.fact-list{
+  overflow-y: auto;
+  height: 40vh;
+}
+
+.history-message{
+  display: flex;
+  flex-direction: column;
+  margin-top: auto;
+  margin-bottom: auto;
+}

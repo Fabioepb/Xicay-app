@@ -1,0 +1,26 @@
+.App {
+  height: 75vh;
+  display: flex;
+  align-items: flex-start;
+  margin-top: 10vh;
+  text-align: center;
+}
+
+.Main-container{
+  background-color: rgba(0, 0, 0, 0.493);
+  border-radius: 10px;
+  padding-bottom: 30px;
+}
+
+.top-container{
+  border-bottom: 2px solid lightgray;
+}
+
+.details-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-left: 2px solid lightgray;
+  margin-right: auto;
+  margin-left: auto;
+}
