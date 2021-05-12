@@ -1,18 +1,30 @@
-# Xicay-app
+# Facts App
 
-React app with Redux state management, Retrieves a fact from an API about a specific date. Developed as a tech test for an interview process.
+Simple app that retrieves a fact from an API about a specific date. Developed as a tech test for an interview process.
 
-# How to run
+Built using [React](https://github.com/facebook/react), [Redux](https://github.com/reduxjs/redux) and RapidApi.
+ 
+This project is deployed using Vercel, you can [try it out anytime](https://xicay-app.vercel.app/)
 
-Copy the repository and run
 
+## Installation
+
+```bash
+$ npm install
 ```
-npm install
 
+## Running the app
+
+```bash
+# Run a dev build
+$ npm start
 ```
 
-after installation run
+## Stay in touch
 
-```
-npm start
-```
+- Author - [Fabio Pineda](https://github.com/Fabioepb)
+- [Personal Portfolio](https://fabiopineda.ml)
+
+## License
+
+[MIT licensed](LICENSE).
