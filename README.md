@@ -1,4 +1,4 @@
-# Facts App
+# Day Facts App
 
 Simple app that retrieves a fact from an API about a specific date. Developed as a tech test for an interview process.
 
